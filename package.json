@@ -14,7 +14,7 @@
     "turbo360": "^1.8.69",
     "vertex360": "^0.29.14",
     "express": "^4.17.1",
-    "serve-static": "1.13.2"
+    "serve-static": "1.16.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2",
